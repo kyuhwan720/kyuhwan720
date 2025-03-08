@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kyuhwan!
+# 👋 Hi, I'm Kyuhwan
 
-I'm originally from **Seoul, South Korea**, and have had the opportunity to live and study across the globe, including:
+I'm a student at Purdue University, majoring in Computer Engineering Technology with a minor in Computer and Information Technology. I've also lived and studied in various cities:
 
 - 📍 Budapest, Hungary
 - 📍 Sydney, Australia
@@ -10,23 +10,57 @@ I'm originally from **Seoul, South Korea**, and have had the opportunity to live
 
 ---
 
+## 🎓 Education
+
+Currently pursuing my bachelor's at Purdue University.
+
+---
+
 ## 🚀 Interests
 
-I'm passionate about:
-
-- 🤖 **AI (Artificial Intelligence)**
-- ☁️ **Cloud Computing**
-- 🎵 Music, especially **Rap and R&B**
-
----
-
-## 🎧 Music Enthusiast
-
-I spend a lot of time exploring music, primarily Rap and R&B. Feel free to reach out with any music recommendations or projects!
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence
+- 🎵 Music
+- 🎮 Gaming
+- ⚽ Sports
+- 🎬 Watching Movies/Netflix
+- 💹 Investing (stocks, ETFs, Bitcoin)
+- 📺 Watching YouTube
+- 🖥️ New Technologies
 
 ---
 
-## 🌐 Connect with Me
+## 🎵 Music
 
-Feel free to reach out or collaborate—I'm always open to new ideas and interesting projects!
+I listen to just about anything—except country/folk music. 
 
+---
+
+## 🎮 Gaming
+
+I enjoy gaming in my spare time. Check out my [Steam profile](https://steamcommunity.com/id/davidkyuhwanlee/) and add me on Discord: `.dernie`.
+
+---
+
+## ⚽ Sports
+
+I've played various sports since elementary school, including baseball, soccer, basketball, volleyball, and track and field. I also enjoy watching sports.
+
+---
+
+## 📄 Resume
+
+For a detailed overview of my background and skills, view my [Resume (PDF)](./path/to/your_resume.pdf).
+
+---
+
+## 🌐 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kyuhwanl)
+- [Email](mailto:kyuhwan720@gmail.com)
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
