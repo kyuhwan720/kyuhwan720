@@ -50,7 +50,7 @@ I've played various sports since elementary school, including baseball, soccer, 
 
 ## 📄 Resume
 
-For a detailed overview of my background and skills, view my [Resume (PDF)](./path/to/your_resume.pdf).
+For a detailed overview of my background and skills, view my [Resume (PDF)](./Kyuhwan_Lee_Resume_2025.pdf).
 
 ---
 
