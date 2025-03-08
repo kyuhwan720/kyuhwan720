@@ -52,7 +52,9 @@ I've played various sports since elementary school, including baseball, soccer, 
 
 Below is a snapshot of my resume:
 
-!(./resume.jpg)
+![](./resume.jpg)
+
+There is also the [.pdf)](./Kyuhwan_Lee_Resume_2025.pdf). version available!
 
 ---
 
