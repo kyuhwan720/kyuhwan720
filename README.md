@@ -54,7 +54,7 @@ Below is a snapshot of my resume:
 
 ![](./resume.jpg)
 
-There is also the [.pdf)](./Kyuhwan_Lee_Resume_2025.pdf). version available!
+There is also the [.pdf](./Kyuhwan_Lee_Resume_2025.pdf) version available!
 
 ---
 
