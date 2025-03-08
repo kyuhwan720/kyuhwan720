@@ -50,7 +50,9 @@ I've played various sports since elementary school, including baseball, soccer, 
 
 ## 📄 Resume
 
-For a detailed overview of my background and skills, view my [Resume (PDF)](./Kyuhwan_Lee_Resume_2025.pdf).
+Below is a snapshot of my resume:
+
+![My Resume](./resume.png)
 
 ---
 
@@ -58,9 +60,3 @@ For a detailed overview of my background and skills, view my [Resume (PDF)](./Ky
 
 - [LinkedIn](https://www.linkedin.com/in/kyuhwanl)
 - [Email](mailto:kyuhwan720@gmail.com)
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
