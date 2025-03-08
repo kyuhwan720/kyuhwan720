@@ -2,11 +2,13 @@
 
 I'm a student at Purdue University, majoring in Computer Engineering Technology with a minor in Computer and Information Technology. I've also lived and studied in various cities:
 
+- 📍 Seoul, South Korea
 - 📍 Budapest, Hungary
 - 📍 Sydney, Australia
 - 📍 Bathurst, Australia
 - 📍 Busan, South Korea
 - 📍 West Lafayette, Indiana, USA
+- 📍 Goyang-si, South Korea
 
 ---
 
@@ -32,7 +34,7 @@ Currently pursuing my bachelor's at Purdue University.
 
 ## 🎵 Music
 
-I listen to just about anything—except country/folk music. 
+I listen to just about anything——except country/folk music. 
 
 ---
 
@@ -54,11 +56,11 @@ Below is a snapshot of my resume:
 
 ![](./resume.jpg)
 
-There is also the [.pdf](./Kyuhwan_Lee_Resume_2025.pdf) version available!
+There is also a [.pdf](./Kyuhwan_Lee_Resume_2025.pdf) version available!
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect with me!
 
 - [LinkedIn](https://www.linkedin.com/in/kyuhwanl)
 - [Email](mailto:kyuhwan720@gmail.com)
