@@ -52,7 +52,7 @@ I've played various sports since elementary school, including baseball, soccer, 
 
 Below is a snapshot of my resume:
 
-![My Resume](./resume.png)
+!(./resume.jpg)
 
 ---
 
