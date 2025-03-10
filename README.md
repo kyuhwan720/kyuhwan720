@@ -20,12 +20,12 @@ Currently pursuing my bachelor's at Purdue University.
 
 ## 🚀 Interests
 
-- ☁️ Cloud Computing
+- ☁️ Cloud Computing (especially in AWS - SAA Certified)
 - 🤖 Artificial Intelligence
 - 🎵 Music
 - 🎮 Gaming
 - ⚽ Sports
-- 🎬 Watching Movies/Netflix
+- 🎬 Watching Movies/Netflix (Currently watching Billions)
 - 💹 Investing (stocks, ETFs, Bitcoin)
 - 📺 Watching YouTube
 - 🖥️ New Technologies
